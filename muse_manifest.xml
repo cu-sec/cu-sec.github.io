@@ -1,0 +1,217 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cusec.com" resolutions="1x" timestamp="1555887705229">
+  <folder name="css">
+    <file name="site_global.css" crc="448098164"/>
+    <file name="master_header-footer.css" crc="191160549" ref="index"/>
+    <file name="nomq_preview_master_header-footer.css" crc="3943507626" ref="index"/>
+    <file name="master_long.css" crc="319858290" ref="resource:people:code:publication"/>
+    <file name="nomq_preview_master_long.css" crc="405893195" ref="resource:people:code:publication"/>
+    <file name="resource.css" crc="3840316516" ref="resource"/>
+    <file name="nomq_resource.css" crc="41287140" ref="resource"/>
+    <file name="people.css" crc="4194256246" ref="people"/>
+    <file name="nomq_people.css" crc="21603029" ref="people"/>
+    <file name="code.css" crc="3762526628" ref="code"/>
+    <file name="nomq_code.css" crc="4272821437" ref="code"/>
+    <file name="index.css" crc="362261990" ref="index"/>
+    <file name="nomq_index.css" crc="4270616676" ref="index"/>
+    <file name="publication.css" crc="152657340" ref="publication"/>
+    <file name="nomq_publication.css" crc="3992649827" ref="publication"/>
+  </folder>
+  <folder name="fonts">
+    <file name="raleway-light.woff" crc="213398751"/>
+    <file name="raleway-light.eot" crc="3780667862"/>
+    <file name="raleway-light.svg" crc="3766537794"/>
+    <file name="raleway-semibold.woff" crc="4097288398"/>
+    <file name="raleway-semibold.eot" crc="4195228937"/>
+    <file name="raleway-semibold.svg" crc="296923793"/>
+    <file name="raleway-medium.woff" crc="22879203"/>
+    <file name="raleway-medium.eot" crc="3952261235"/>
+    <file name="raleway-medium.svg" crc="233222036"/>
+    <file name="raleway-regular.woff" crc="520808216"/>
+    <file name="raleway-regular.eot" crc="15939131"/>
+    <file name="raleway-regular.svg" crc="53722793"/>
+    <file name="et-line.woff" crc="3758689988"/>
+    <file name="et-line.eot" crc="3932358893"/>
+    <file name="et-line.svg" crc="479007951"/>
+    <file name="raleway-bold.woff" crc="169488752"/>
+    <file name="raleway-bold.eot" crc="409277208"/>
+    <file name="raleway-bold.svg" crc="321554977"/>
+  </folder>
+  <folder name="assets">
+    <file name="1145-700.png" crc="3823893480" seo="true" mt="1519684708000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:publication:people:code:resource"/>
+    <file name="museutils.js" crc="4216313831" ref="index:publication:people:code:resource"/>
+    <file name="whatinput.js" crc="86476730" ref="index:publication:people:code:resource"/>
+    <file name="museconfig.js" crc="4177022356" ref="index:publication:people:code:resource"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index:publication:people:code"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index:publication:people:code:resource"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:publication:people:code:resource"/>
+    <file name="webpro.js" crc="4143865194" ref="index:publication:people:code:resource"/>
+    <file name="musewpdisclosure.js" crc="4050941203" ref="index:publication:people:code:resource"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:publication:people:code:resource"/>
+    <file name="jquery.museresponsive.js" crc="4055310269" ref="index:publication:people:code:resource"/>
+    <file name="require.js" crc="3951022091" ref="index:publication:people:code:resource"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4221592826" ref="index"/>
+    <file name="home page design -06.png" crc="190309411" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home page design -07.png" crc="4164613096" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-05.png" crc="368359031" ref="index:publication">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="publication" alt=""/>
+      <caption webpage="publication" alt=""/>
+      <caption webpage="publication" alt=""/>
+      <caption webpage="publication" alt=""/>
+      <caption webpage="publication" alt=""/>
+    </file>
+    <file name="pasted-svg-1008x93.svg" crc="4149178694" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 1008x93_poster_.png" crc="4294475031" ref="index"/>
+    <file name="pasted-svg-102x98.svg" crc="4112197146" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 102x98_poster_.png" crc="496893317" ref="index"/>
+    <file name="home 1page design -09.png" crc="4211880620" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:publication:people:code:resource"/>
+    <file name="home page design -061777x330.png" crc="4003892011" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home page design -071777x330.png" crc="237349140" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home 1page design -09998x405.png" crc="374656857" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home page design -061569x291.png" crc="52961071" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home page design -071569x291.png" crc="233383289" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu.svg" crc="3759342065" ref="index:publication"/>
+    <file name="menu_poster_u28029.png" crc="3942457723" ref="index:publication"/>
+    <file name="close.svg" crc="405141803" ref="index:publication"/>
+    <file name="close_poster_u28021.png" crc="4276117967" ref="index:publication"/>
+    <file name="home page design -061257x233.png" crc="494063221" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home page design -071256x233.png" crc="185702835" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home page design -061857x344.png" crc="3908704791" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home page design -071857x344.png" crc="92764307" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home 1page design -09970x394.png" crc="24672933" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="anastasia-zhenina-65700-unsplash copy.jpg" crc="4029374921" ref="publication">
+      <caption webpage="publication" alt=""/>
+    </file>
+    <file name="group co py.png" crc="504854392" ref="publication">
+      <caption webpage="publication" alt=""/>
+      <caption webpage="publication" alt=""/>
+      <caption webpage="publication" alt=""/>
+    </file>
+    <file name="anastasia-zhenina-65700-unsplash copy-u33056-fr.jpg" crc="274490745" ref="publication"/>
+    <file name="group co py-u33357-fr.png" crc="3884096198" ref="publication"/>
+    <file name="anastasia-zhenina-65700-unsplash copy-u33056-fr2.jpg" crc="4276302472" ref="publication"/>
+    <file name="anastasia-zhenina-65700-unsplash copy-u33056-fr3.jpg" crc="3789410465" ref="publication"/>
+    <file name="anastasia-zhenina-65700-unsplash copy-u33056-fr4.jpg" crc="4038435690" ref="publication"/>
+    <file name="group co py-u33357-fr2.png" crc="4138156810" ref="publication"/>
+    <file name="img_1658 copy white.jpg" crc="3779312663" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="color copy.png" crc="3892301601" ref="people">
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="jana-1200.jpg" crc="165677099" ref="people">
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="large_weeg_3e49000218211263-crop-u37942.png" crc="202279357" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="_dsc3112-crop-u380212.png" crc="317518842" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="10767260272_img_0152 2.jpg" crc="227797417" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="download.jpg" crc="4236934064" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="dennis roellke.jpg" crc="534748289" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="yizheng chen.jpg" crc="213492027" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
+    <file name="img_1658 copy white-u34670-fr.jpg" crc="237773446" ref="people"/>
+    <file name="img_1658 copy white-u34670-fr2.jpg" crc="3777013201" ref="people"/>
+    <file name="large_weeg_3e49000218211263-crop-u37942-u34756-fr.png" crc="349499843" ref="people"/>
+    <file name="10767260272_img_0152 2-u34960-fr.jpg" crc="127472116" ref="people"/>
+    <file name="download-u35080-fr.jpg" crc="441066137" ref="people"/>
+    <file name="dennis roellke-u35193-fr.jpg" crc="4137534847" ref="people"/>
+    <file name="yizheng chen-u35250-fr.jpg" crc="393609389" ref="people"/>
+    <file name="img_1658 copy white-u34670-fr3.jpg" crc="3781197108" ref="people"/>
+    <file name="jana-1200-u34877-fr.jpg" crc="4255899723" ref="people"/>
+    <file name="10767260272_img_0152 2-u34960-fr2.jpg" crc="366442760" ref="people"/>
+    <file name="img_1658 copy white-u34670-fr4.jpg" crc="268346571" ref="people"/>
+    <file name="color copy-u35156-fr.png" crc="4083005667" ref="people"/>
+    <file name="jana-1200-u34877-fr2.jpg" crc="342142696" ref="people"/>
+    <file name="markus-spiske-109588-unsplash.jpg" crc="337563432" ref="code">
+      <caption webpage="code" alt=""/>
+    </file>
+    <file name="code.png" crc="239761281" ref="code">
+      <caption webpage="code" alt=""/>
+    </file>
+    <file name="markus-spiske-109588-unsplash-u36904-fr.jpg" crc="101286459" ref="code"/>
+    <file name="code-u36934-fr.png" crc="380530461" ref="code"/>
+    <file name="markus-spiske-109588-unsplash-u36904-fr2.jpg" crc="23536057" ref="code"/>
+    <file name="code-u36934-fr2.png" crc="357163285" ref="code"/>
+    <file name="markus-spiske-109588-unsplash-u36904-fr3.jpg" crc="3803080576" ref="code"/>
+    <file name="code-u36934-fr3.png" crc="338125318" ref="code"/>
+    <file name="markus-spiske-109588-unsplash-u36904-fr4.jpg" crc="351939835" ref="code"/>
+    <file name="code-u36934-fr4.png" crc="330004105" ref="code"/>
+  </folder>
+  <file name="index.html" crc="4267876539" seo="true" mt="1555887637874" redirect="true"/>
+  <file name="publication.html" crc="4117143979" seo="true" mt="1555211351590" redirect="true"/>
+  <file name="people.html" crc="4168507303" seo="true" mt="1555886357560" redirect="true"/>
+  <file name="code.html" crc="4165070450" seo="true" mt="1555885994048" redirect="true"/>
+  <file name="resource.html" crc="3807781011" seo="true" mt="1555886796915" redirect="true"/>
+</manifest>
