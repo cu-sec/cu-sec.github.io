@@ -1,20 +1,20 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cusec.com" resolutions="1x" timestamp="1555887705229">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cusec.com" resolutions="1x" timestamp="1556739417122">
   <folder name="css">
-    <file name="site_global.css" crc="448098164"/>
-    <file name="master_header-footer.css" crc="191160549" ref="index"/>
-    <file name="nomq_preview_master_header-footer.css" crc="3943507626" ref="index"/>
-    <file name="master_long.css" crc="319858290" ref="resource:people:code:publication"/>
-    <file name="nomq_preview_master_long.css" crc="405893195" ref="resource:people:code:publication"/>
-    <file name="resource.css" crc="3840316516" ref="resource"/>
-    <file name="nomq_resource.css" crc="41287140" ref="resource"/>
-    <file name="people.css" crc="4194256246" ref="people"/>
-    <file name="nomq_people.css" crc="21603029" ref="people"/>
-    <file name="code.css" crc="3762526628" ref="code"/>
-    <file name="nomq_code.css" crc="4272821437" ref="code"/>
-    <file name="index.css" crc="362261990" ref="index"/>
-    <file name="nomq_index.css" crc="4270616676" ref="index"/>
-    <file name="publication.css" crc="152657340" ref="publication"/>
-    <file name="nomq_publication.css" crc="3992649827" ref="publication"/>
+    <file name="site_global.css" crc="331742989"/>
+    <file name="master_header-footer.css" crc="202526373" ref="index"/>
+    <file name="nomq_preview_master_header-footer.css" crc="507205868" ref="index"/>
+    <file name="master_long.css" crc="4172781118" ref="resource:people:code:publication"/>
+    <file name="nomq_preview_master_long.css" crc="4120698017" ref="resource:people:code:publication"/>
+    <file name="resource.css" crc="168966454" ref="resource"/>
+    <file name="nomq_resource.css" crc="152675422" ref="resource"/>
+    <file name="people.css" crc="303666014" ref="people"/>
+    <file name="nomq_people.css" crc="4080645135" ref="people"/>
+    <file name="code.css" crc="394369181" ref="code"/>
+    <file name="nomq_code.css" crc="4009314351" ref="code"/>
+    <file name="index.css" crc="4232746139" ref="index"/>
+    <file name="nomq_index.css" crc="236323838" ref="index"/>
+    <file name="publication.css" crc="4251889993" ref="publication"/>
+    <file name="nomq_publication.css" crc="62106344" ref="publication"/>
   </folder>
   <folder name="fonts">
     <file name="raleway-light.woff" crc="213398751"/>
@@ -44,7 +44,7 @@
     <file name="museutils.js" crc="4216313831" ref="index:publication:people:code:resource"/>
     <file name="whatinput.js" crc="86476730" ref="index:publication:people:code:resource"/>
     <file name="museconfig.js" crc="4177022356" ref="index:publication:people:code:resource"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index:publication:people:code"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index:publication:people:code:resource"/>
     <file name="jquery.musemenu.js" crc="493622299" ref="index:publication:people:code:resource"/>
     <file name="jquery.watch.js" crc="460461809" ref="index:publication:people:code:resource"/>
     <file name="webpro.js" crc="4143865194" ref="index:publication:people:code:resource"/>
@@ -54,7 +54,7 @@
     <file name="require.js" crc="3951022091" ref="index:publication:people:code:resource"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="4221592826" ref="index"/>
+    <file name="favicon.ico" crc="103707322" ref="index"/>
     <file name="home page design -06.png" crc="190309411" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -70,6 +70,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="publication" alt=""/>
       <caption webpage="publication" alt=""/>
       <caption webpage="publication" alt=""/>
       <caption webpage="publication" alt=""/>
@@ -137,19 +138,18 @@
     </file>
     <file name="anastasia-zhenina-65700-unsplash copy.jpg" crc="4029374921" ref="publication">
       <caption webpage="publication" alt=""/>
+      <caption webpage="publication" alt=""/>
     </file>
-    <file name="group co py.png" crc="504854392" ref="publication">
-      <caption webpage="publication" alt=""/>
-      <caption webpage="publication" alt=""/>
+    <file name="group co py.png" crc="535907600" ref="publication">
       <caption webpage="publication" alt=""/>
     </file>
     <file name="anastasia-zhenina-65700-unsplash copy-u33056-fr.jpg" crc="274490745" ref="publication"/>
-    <file name="group co py-u33357-fr.png" crc="3884096198" ref="publication"/>
+    <file name="group co py-u33357-fr.png" crc="4208783798" ref="publication"/>
     <file name="anastasia-zhenina-65700-unsplash copy-u33056-fr2.jpg" crc="4276302472" ref="publication"/>
     <file name="anastasia-zhenina-65700-unsplash copy-u33056-fr3.jpg" crc="3789410465" ref="publication"/>
     <file name="anastasia-zhenina-65700-unsplash copy-u33056-fr4.jpg" crc="4038435690" ref="publication"/>
-    <file name="group co py-u33357-fr2.png" crc="4138156810" ref="publication"/>
-    <file name="img_1658 copy white.jpg" crc="3779312663" ref="people">
+    <file name="group co py-u33357-fr2.png" crc="4108365984" ref="publication"/>
+    <file name="img_1658 copy white.jpg" crc="524412862" ref="people">
       <caption webpage="people" alt=""/>
     </file>
     <file name="color copy.png" crc="3892301601" ref="people">
@@ -157,8 +157,10 @@
       <caption webpage="people" alt=""/>
       <caption webpage="people" alt=""/>
       <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
     </file>
     <file name="jana-1200.jpg" crc="165677099" ref="people">
+      <caption webpage="people" alt=""/>
       <caption webpage="people" alt=""/>
       <caption webpage="people" alt=""/>
       <caption webpage="people" alt=""/>
@@ -181,37 +183,55 @@
     <file name="yizheng chen.jpg" crc="213492027" ref="people">
       <caption webpage="people" alt=""/>
     </file>
-    <file name="img_1658 copy white-u34670-fr.jpg" crc="237773446" ref="people"/>
-    <file name="img_1658 copy white-u34670-fr2.jpg" crc="3777013201" ref="people"/>
+    <file name="img_1658 copy white-u34670-fr.jpg" crc="229498031" ref="people"/>
+    <file name="img_1658 copy white-u34670-fr2.jpg" crc="344772315" ref="people"/>
     <file name="large_weeg_3e49000218211263-crop-u37942-u34756-fr.png" crc="349499843" ref="people"/>
     <file name="10767260272_img_0152 2-u34960-fr.jpg" crc="127472116" ref="people"/>
     <file name="download-u35080-fr.jpg" crc="441066137" ref="people"/>
     <file name="dennis roellke-u35193-fr.jpg" crc="4137534847" ref="people"/>
     <file name="yizheng chen-u35250-fr.jpg" crc="393609389" ref="people"/>
-    <file name="img_1658 copy white-u34670-fr3.jpg" crc="3781197108" ref="people"/>
+    <file name="img_1658 copy white-u34670-fr3.jpg" crc="3996980737" ref="people"/>
     <file name="jana-1200-u34877-fr.jpg" crc="4255899723" ref="people"/>
     <file name="10767260272_img_0152 2-u34960-fr2.jpg" crc="366442760" ref="people"/>
-    <file name="img_1658 copy white-u34670-fr4.jpg" crc="268346571" ref="people"/>
+    <file name="img_1658 copy white-u34670-fr4.jpg" crc="4149818439" ref="people"/>
     <file name="color copy-u35156-fr.png" crc="4083005667" ref="people"/>
     <file name="jana-1200-u34877-fr2.jpg" crc="342142696" ref="people"/>
-    <file name="markus-spiske-109588-unsplash.jpg" crc="337563432" ref="code">
+    <file name="markus-spiske-109588-unsplash.jpg" crc="390842239" ref="code">
       <caption webpage="code" alt=""/>
     </file>
-    <file name="code.png" crc="239761281" ref="code">
+    <file name="code.png" crc="331066761" ref="code">
       <caption webpage="code" alt=""/>
     </file>
-    <file name="markus-spiske-109588-unsplash-u36904-fr.jpg" crc="101286459" ref="code"/>
-    <file name="code-u36934-fr.png" crc="380530461" ref="code"/>
-    <file name="markus-spiske-109588-unsplash-u36904-fr2.jpg" crc="23536057" ref="code"/>
-    <file name="code-u36934-fr2.png" crc="357163285" ref="code"/>
-    <file name="markus-spiske-109588-unsplash-u36904-fr3.jpg" crc="3803080576" ref="code"/>
-    <file name="code-u36934-fr3.png" crc="338125318" ref="code"/>
-    <file name="markus-spiske-109588-unsplash-u36904-fr4.jpg" crc="351939835" ref="code"/>
-    <file name="code-u36934-fr4.png" crc="330004105" ref="code"/>
+    <file name="markus-spiske-109588-unsplash-u36904-fr.jpg" crc="4173866797" ref="code"/>
+    <file name="code-u36934-fr.png" crc="512578960" ref="code"/>
+    <file name="markus-spiske-109588-unsplash-u36904-fr2.jpg" crc="332947413" ref="code"/>
+    <file name="code-u36934-fr2.png" crc="3771391748" ref="code"/>
+    <file name="markus-spiske-109588-unsplash-u36904-fr3.jpg" crc="415252210" ref="code"/>
+    <file name="code-u36934-fr3.png" crc="417314404" ref="code"/>
+    <file name="markus-spiske-109588-unsplash-u36904-fr4.jpg" crc="4204080900" ref="code"/>
+    <file name="code-u36934-fr4.png" crc="205108067" ref="code"/>
+    <file name="group co py-u33357-fr3.png" crc="188950047" ref="publication"/>
+    <file name="img_1658 copy white-u34670-fr5.jpg" crc="4155955213" ref="people"/>
+    <file name="large_weeg_3e49000218211263-crop-u37942-u34756-fr2.png" crc="4109162257" ref="people"/>
+    <file name="_dsc3112-crop-u380212-u34901-fr.png" crc="438392065" ref="people"/>
+    <file name="10767260272_img_0152 2-u34960-fr3.jpg" crc="3847136169" ref="people"/>
+    <file name="download-u35080-fr2.jpg" crc="3937783013" ref="people"/>
+    <file name="dennis roellke-u35193-fr2.jpg" crc="357731032" ref="people"/>
+    <file name="yizheng chen-u35250-fr2.jpg" crc="51315225" ref="people"/>
+    <file name="markus-spiske-109588-unsplash-u36904-fr5.jpg" crc="195009569" ref="code"/>
+    <file name="code-u36934-fr5.png" crc="3963747384" ref="code"/>
+    <file name="brandi-redd-122054-unsplash (1).jpg" crc="4086575893" ref="resource">
+      <caption webpage="resource" alt=""/>
+    </file>
+    <file name="brandi-redd-122054-unsplash (1)-u39534-fr.jpg" crc="4217306959" ref="resource"/>
+    <file name="brandi-redd-122054-unsplash (1)-u39534-fr2.jpg" crc="4205757368" ref="resource"/>
+    <file name="brandi-redd-122054-unsplash (1)-u39534-fr3.jpg" crc="4132650719" ref="resource"/>
+    <file name="brandi-redd-122054-unsplash (1)-u39534-fr4.jpg" crc="288562141" ref="resource"/>
+    <file name="brandi-redd-122054-unsplash (1)-u39534-fr5.jpg" crc="51823518" ref="resource"/>
   </folder>
-  <file name="index.html" crc="4267876539" seo="true" mt="1555887637874" redirect="true"/>
-  <file name="publication.html" crc="4117143979" seo="true" mt="1555211351590" redirect="true"/>
-  <file name="people.html" crc="4168507303" seo="true" mt="1555886357560" redirect="true"/>
-  <file name="code.html" crc="4165070450" seo="true" mt="1555885994048" redirect="true"/>
-  <file name="resource.html" crc="3807781011" seo="true" mt="1555886796915" redirect="true"/>
+  <file name="index.html" crc="268509113" seo="true" mt="1556738983068" redirect="true"/>
+  <file name="publication.html" crc="4266472552" seo="true" mt="1556738945392" redirect="true"/>
+  <file name="people.html" crc="4141250310" seo="true" mt="1556739368767" redirect="true"/>
+  <file name="code.html" crc="467998020" seo="true" mt="1556738949461" redirect="true"/>
+  <file name="resource.html" crc="3918939947" seo="true" mt="1556738950065" redirect="true"/>
 </manifest>
