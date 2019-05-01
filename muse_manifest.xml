@@ -1,11 +1,11 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cusec.com" resolutions="1x" timestamp="1556739991426">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cusec.com" resolutions="1x" timestamp="1556740470835">
   <folder name="css">
     <file name="site_global.css" crc="331742989"/>
     <file name="master_header-footer.css" crc="202526373" ref="index"/>
     <file name="nomq_preview_master_header-footer.css" crc="507205868" ref="index"/>
     <file name="master_long.css" crc="4172781118" ref="people:publication:code:resource"/>
     <file name="nomq_preview_master_long.css" crc="4120698017" ref="people:publication:code:resource"/>
-    <file name="people.css" crc="30859004" ref="people"/>
+    <file name="people.css" crc="4166252526" ref="people"/>
     <file name="nomq_people.css" crc="250744119" ref="people"/>
     <file name="publication.css" crc="57789871" ref="publication"/>
     <file name="nomq_publication.css" crc="474782594" ref="publication"/>
@@ -227,7 +227,7 @@
   </folder>
   <file name="index.html" crc="268509113" seo="true" mt="1556738983068" redirect="true"/>
   <file name="publication.html" crc="464006189" seo="true" mt="1556739812043" redirect="true"/>
-  <file name="people.html" crc="4221478862" seo="true" mt="1556739816301" redirect="true"/>
+  <file name="people.html" crc="4153584367" seo="true" mt="1556740353100" redirect="true"/>
   <file name="code.html" crc="467998020" seo="true" mt="1556739858968" redirect="true"/>
   <file name="resource.html" crc="3918939947" seo="true" mt="1556738950065" redirect="true"/>
 </manifest>
