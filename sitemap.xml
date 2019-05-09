@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://cusec.com/index.html</loc>
-    <lastmod>2019-05-01</lastmod>
+    <lastmod>2019-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -52,26 +52,20 @@
     </image:image>
   </url>
   <url>
-    <loc>http://cusec.com/people.html</loc>
-    <lastmod>2019-05-01</lastmod>
+    <loc>http://cusec.com/publication.html</loc>
+    <lastmod>2019-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cusec.com/publication.html</loc>
-    <lastmod>2019-05-01</lastmod>
+    <loc>http://cusec.com/people.html</loc>
+    <lastmod>2019-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://cusec.com/code.html</loc>
-    <lastmod>2019-05-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://cusec.com/resource.html</loc>
-    <lastmod>2019-05-01</lastmod>
+    <lastmod>2019-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

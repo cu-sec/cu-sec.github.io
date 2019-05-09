@@ -1,20 +1,19 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cusec.com" resolutions="1x" timestamp="1556740470835">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cusec.com" resolutions="1x" timestamp="1557374216925">
   <folder name="css">
     <file name="site_global.css" crc="331742989"/>
-    <file name="master_header-footer.css" crc="202526373" ref="index"/>
-    <file name="nomq_preview_master_header-footer.css" crc="507205868" ref="index"/>
-    <file name="master_long.css" crc="4172781118" ref="people:publication:code:resource"/>
-    <file name="nomq_preview_master_long.css" crc="4120698017" ref="people:publication:code:resource"/>
-    <file name="people.css" crc="4166252526" ref="people"/>
-    <file name="nomq_people.css" crc="250744119" ref="people"/>
-    <file name="publication.css" crc="57789871" ref="publication"/>
-    <file name="nomq_publication.css" crc="474782594" ref="publication"/>
-    <file name="code.css" crc="394369181" ref="code"/>
-    <file name="nomq_code.css" crc="4009314351" ref="code"/>
-    <file name="index.css" crc="4232746139" ref="index"/>
-    <file name="nomq_index.css" crc="236323838" ref="index"/>
-    <file name="resource.css" crc="168966454" ref="resource"/>
-    <file name="nomq_resource.css" crc="152675422" ref="resource"/>
+    <file name="master_home-master.css" crc="292403719" ref="index"/>
+    <file name="nomq_preview_master_home-master.css" crc="109381025" ref="index"/>
+    <file name="master_other-master.css" crc="3872021975" ref="people:publication:code"/>
+    <file name="nomq_preview_master_other-master.css" crc="105772068" ref="people:publication:code"/>
+    <file name="people.css" crc="352161293" ref="people"/>
+    <file name="nomq_people.css" crc="190134189" ref="people"/>
+    <file name="publication.css" crc="3780791911" ref="publication"/>
+    <file name="nomq_publication.css" crc="3862855025" ref="publication"/>
+    <file name="code.css" crc="275814921" ref="code"/>
+    <file name="nomq_code.css" crc="131279480" ref="code"/>
+    <file name="index.css" crc="4171579123" ref="index"/>
+    <file name="nomq_index.css" crc="4190403843" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="raleway-regular.woff" crc="520808216"/>
@@ -40,18 +39,18 @@
     <file name="1145-700.png" crc="3823893480" seo="true" mt="1519684708000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:publication:people:code:resource"/>
-    <file name="museutils.js" crc="4216313831" ref="index:publication:people:code:resource"/>
-    <file name="whatinput.js" crc="86476730" ref="index:publication:people:code:resource"/>
-    <file name="museconfig.js" crc="4177022356" ref="index:publication:people:code:resource"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index:publication:people:code:resource"/>
-    <file name="jquery.musemenu.js" crc="493622299" ref="index:publication:people:code:resource"/>
-    <file name="jquery.watch.js" crc="460461809" ref="index:publication:people:code:resource"/>
-    <file name="webpro.js" crc="4143865194" ref="index:publication:people:code:resource"/>
-    <file name="musewpdisclosure.js" crc="4050941203" ref="index:publication:people:code:resource"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:publication:people:code:resource"/>
-    <file name="jquery.museresponsive.js" crc="4055310269" ref="index:publication:people:code:resource"/>
-    <file name="require.js" crc="3951022091" ref="index:publication:people:code:resource"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:publication:people:code"/>
+    <file name="museutils.js" crc="4216313831" ref="index:publication:people:code"/>
+    <file name="whatinput.js" crc="86476730" ref="index:publication:people:code"/>
+    <file name="museconfig.js" crc="4177022356" ref="index:publication:people:code"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index:publication:people:code"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index:publication:people:code"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:publication:people:code"/>
+    <file name="webpro.js" crc="4143865194" ref="index:publication:people:code"/>
+    <file name="musewpdisclosure.js" crc="4050941203" ref="index:publication:people:code"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:publication:people:code"/>
+    <file name="jquery.museresponsive.js" crc="4055310269" ref="index:publication:people:code"/>
+    <file name="require.js" crc="3951022091" ref="index:publication:people:code"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="103707322" ref="index"/>
@@ -63,7 +62,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo-05.png" crc="368359031" ref="index:publication">
+    <file name="cusec logo.png" crc="4110451381" ref="index:publication">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -101,13 +100,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:publication:people:code:resource"/>
+    <file name="cusec logo-u39848-fr.png" crc="4113029886" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:publication:people:code"/>
+    <file name="cusec logo-u39848-fr2.png" crc="226024060" ref="index"/>
     <file name="home page design -061777x330.png" crc="4003892011" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="home page design -071777x330.png" crc="237349140" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="cusec logo-u39848-fr3.png" crc="526480617" ref="index"/>
     <file name="home 1page design -09998x405.png" crc="374656857" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -117,6 +119,7 @@
     <file name="home page design -071569x291.png" crc="233383289" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="cusec logo-u39848-fr4.png" crc="238271575" ref="index"/>
     <file name="menu.svg" crc="3759342065" ref="index:publication"/>
     <file name="menu_poster_u28029.png" crc="3942457723" ref="index:publication"/>
     <file name="close.svg" crc="405141803" ref="index:publication"/>
@@ -127,6 +130,7 @@
     <file name="home page design -071256x233.png" crc="185702835" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="cusec logo-u39848-fr5.png" crc="4138754197" ref="index"/>
     <file name="home page design -061857x344.png" crc="3908704791" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -160,6 +164,9 @@
       <caption webpage="people" alt=""/>
       <caption webpage="people" alt=""/>
     </file>
+    <file name="yizheng chen.jpg" crc="213492027" ref="people">
+      <caption webpage="people" alt=""/>
+    </file>
     <file name="kexin pei.png" crc="202279357" ref="people">
       <caption webpage="people" alt=""/>
     </file>
@@ -175,18 +182,21 @@
     <file name="dennis roellke.jpg" crc="534748289" ref="people">
       <caption webpage="people" alt=""/>
     </file>
-    <file name="yizheng chen.jpg" crc="213492027" ref="people">
+    <file name="shah.jpg" crc="324897027" ref="people">
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
       <caption webpage="people" alt=""/>
     </file>
     <file name="img_1658 copy white-u34670-fr.jpg" crc="229498031" ref="people"/>
     <file name="group-u35156-fr.png" crc="3892301601" ref="people"/>
     <file name="img_1658 copy white-u34670-fr2.jpg" crc="344772315" ref="people"/>
     <file name="img_1658 copy white-u34670-fr3.jpg" crc="3996980737" ref="people"/>
+    <file name="yizheng chen-u35250-fr.jpg" crc="393609389" ref="people"/>
     <file name="kexin pei-u34756-fr.png" crc="349499843" ref="people"/>
     <file name="shiqi wang-u34960-fr.jpg" crc="127472116" ref="people"/>
     <file name="download-u35080-fr.jpg" crc="441066137" ref="people"/>
     <file name="dennis roellke-u35193-fr.jpg" crc="4137534847" ref="people"/>
-    <file name="yizheng chen-u35250-fr.jpg" crc="393609389" ref="people"/>
+    <file name="shah-u39748-fr.jpg" crc="4124052774" ref="people"/>
     <file name="img_1658 copy white-u34670-fr4.jpg" crc="4149818439" ref="people"/>
     <file name="group-u35156-fr2.png" crc="4202497978" ref="people"/>
     <file name="jana-1200-u34877-fr.jpg" crc="4255899723" ref="people"/>
@@ -194,12 +204,13 @@
     <file name="img_1658 copy white-u34670-fr5.jpg" crc="4155955213" ref="people"/>
     <file name="group-u35156-fr3.png" crc="4168175822" ref="people"/>
     <file name="jana-1200-u34877-fr2.jpg" crc="342142696" ref="people"/>
+    <file name="yizheng chen-u35250-fr2.jpg" crc="51315225" ref="people"/>
     <file name="kexin pei-u34756-fr2.png" crc="4109162257" ref="people"/>
     <file name="dongdong she-u34901-fr.png" crc="438392065" ref="people"/>
     <file name="shiqi wang-u34960-fr3.jpg" crc="3847136169" ref="people"/>
     <file name="download-u35080-fr2.jpg" crc="3937783013" ref="people"/>
     <file name="dennis roellke-u35193-fr2.jpg" crc="357731032" ref="people"/>
-    <file name="yizheng chen-u35250-fr2.jpg" crc="51315225" ref="people"/>
+    <file name="shah-u39748-fr2.jpg" crc="259732454" ref="people"/>
     <file name="markus-spiske-109588-unsplash.jpg" crc="390842239" ref="code">
       <caption webpage="code" alt=""/>
     </file>
@@ -215,19 +226,10 @@
     <file name="markus-spiske-109588-unsplash-u36904-fr4.jpg" crc="4204080900" ref="code"/>
     <file name="code-u36934-fr4.png" crc="205108067" ref="code"/>
     <file name="markus-spiske-109588-unsplash-u36904-fr5.jpg" crc="195009569" ref="code"/>
-    <file name="code-u36934-fr5.png" crc="3963747384" ref="code"/>
-    <file name="brandi-redd-122054-unsplash (1).jpg" crc="4086575893" ref="resource">
-      <caption webpage="resource" alt=""/>
-    </file>
-    <file name="brandi-redd-122054-unsplash (1)-u39534-fr.jpg" crc="4217306959" ref="resource"/>
-    <file name="brandi-redd-122054-unsplash (1)-u39534-fr2.jpg" crc="4205757368" ref="resource"/>
-    <file name="brandi-redd-122054-unsplash (1)-u39534-fr3.jpg" crc="4132650719" ref="resource"/>
-    <file name="brandi-redd-122054-unsplash (1)-u39534-fr4.jpg" crc="288562141" ref="resource"/>
-    <file name="brandi-redd-122054-unsplash (1)-u39534-fr5.jpg" crc="51823518" ref="resource"/>
+    <file name="code-u36934-fr5.png" crc="419886549" ref="code"/>
   </folder>
-  <file name="index.html" crc="268509113" seo="true" mt="1556738983068" redirect="true"/>
-  <file name="publication.html" crc="464006189" seo="true" mt="1556739812043" redirect="true"/>
-  <file name="people.html" crc="4153584367" seo="true" mt="1556740353100" redirect="true"/>
-  <file name="code.html" crc="467998020" seo="true" mt="1556739858968" redirect="true"/>
-  <file name="resource.html" crc="3918939947" seo="true" mt="1556738950065" redirect="true"/>
+  <file name="index.html" crc="4025422394" seo="true" mt="1557372603366" redirect="true"/>
+  <file name="publication.html" crc="4291156635" seo="true" mt="1557373950956" redirect="true"/>
+  <file name="people.html" crc="43299522" seo="true" mt="1557373916332" redirect="true"/>
+  <file name="code.html" crc="4088467873" seo="true" mt="1557373929028" redirect="true"/>
 </manifest>
