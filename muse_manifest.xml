@@ -1,33 +1,33 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cusec.com" resolutions="1x" timestamp="1557374216925">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cusec.com" resolutions="1x" timestamp="1559407666040">
   <folder name="css">
-    <file name="site_global.css" crc="331742989"/>
-    <file name="master_home-master.css" crc="292403719" ref="index"/>
-    <file name="nomq_preview_master_home-master.css" crc="109381025" ref="index"/>
-    <file name="master_other-master.css" crc="3872021975" ref="people:publication:code"/>
-    <file name="nomq_preview_master_other-master.css" crc="105772068" ref="people:publication:code"/>
-    <file name="people.css" crc="352161293" ref="people"/>
-    <file name="nomq_people.css" crc="190134189" ref="people"/>
-    <file name="publication.css" crc="3780791911" ref="publication"/>
-    <file name="nomq_publication.css" crc="3862855025" ref="publication"/>
-    <file name="code.css" crc="275814921" ref="code"/>
-    <file name="nomq_code.css" crc="131279480" ref="code"/>
-    <file name="index.css" crc="4171579123" ref="index"/>
+    <file name="site_global.css" crc="477749287"/>
+    <file name="master_other-master.css" crc="34945413" ref="people:code:publication"/>
+    <file name="nomq_preview_master_other-master.css" crc="126632878" ref="people:code:publication"/>
+    <file name="master_home-master.css" crc="307234489" ref="index"/>
+    <file name="nomq_preview_master_home-master.css" crc="121942571" ref="index"/>
+    <file name="index.css" crc="4202002279" ref="index"/>
     <file name="nomq_index.css" crc="4190403843" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+    <file name="people.css" crc="334002010" ref="people"/>
+    <file name="nomq_people.css" crc="486784176" ref="people"/>
+    <file name="code.css" crc="4281874068" ref="code"/>
+    <file name="nomq_code.css" crc="131279480" ref="code"/>
+    <file name="publication.css" crc="137841834" ref="publication"/>
+    <file name="nomq_publication.css" crc="3862855025" ref="publication"/>
   </folder>
   <folder name="fonts">
-    <file name="raleway-regular.woff" crc="520808216"/>
-    <file name="raleway-regular.eot" crc="15939131"/>
-    <file name="raleway-regular.svg" crc="53722793"/>
-    <file name="raleway-light.woff" crc="213398751"/>
-    <file name="raleway-light.eot" crc="3780667862"/>
-    <file name="raleway-light.svg" crc="3766537794"/>
-    <file name="raleway-semibold.woff" crc="4097288398"/>
-    <file name="raleway-semibold.eot" crc="4195228937"/>
-    <file name="raleway-semibold.svg" crc="296923793"/>
     <file name="raleway-medium.woff" crc="22879203"/>
     <file name="raleway-medium.eot" crc="3952261235"/>
     <file name="raleway-medium.svg" crc="233222036"/>
+    <file name="raleway-regular.woff" crc="520808216"/>
+    <file name="raleway-regular.eot" crc="15939131"/>
+    <file name="raleway-regular.svg" crc="53722793"/>
+    <file name="raleway-semibold.woff" crc="4097288398"/>
+    <file name="raleway-semibold.eot" crc="4195228937"/>
+    <file name="raleway-semibold.svg" crc="296923793"/>
+    <file name="raleway-light.woff" crc="213398751"/>
+    <file name="raleway-light.eot" crc="3780667862"/>
+    <file name="raleway-light.svg" crc="3766537794"/>
     <file name="et-line.woff" crc="3758689988"/>
     <file name="et-line.eot" crc="3932358893"/>
     <file name="et-line.svg" crc="479007951"/>
@@ -53,7 +53,7 @@
     <file name="require.js" crc="3951022091" ref="index:publication:people:code"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="103707322" ref="index"/>
+    <file name="favicon.ico" crc="103707322" ref="index:people"/>
     <file name="home page design -06.png" crc="190309411" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -62,7 +62,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cusec logo.png" crc="4110451381" ref="index:publication">
+    <file name="cusec logo.png" crc="4110451381" ref="index:publication:people">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -75,6 +75,12 @@
       <caption webpage="publication" alt=""/>
       <caption webpage="publication" alt=""/>
       <caption webpage="publication" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
+      <caption webpage="people" alt=""/>
     </file>
     <file name="pasted-svg-1008x93.svg" crc="4149178694" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -120,10 +126,10 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="cusec logo-u39848-fr4.png" crc="238271575" ref="index"/>
-    <file name="menu.svg" crc="3759342065" ref="index:publication"/>
-    <file name="menu_poster_u28029.png" crc="3942457723" ref="index:publication"/>
-    <file name="close.svg" crc="405141803" ref="index:publication"/>
-    <file name="close_poster_u28021.png" crc="4276117967" ref="index:publication"/>
+    <file name="menu.svg" crc="3759342065" ref="index:publication:people"/>
+    <file name="menu_poster_u28029.png" crc="3942457723" ref="index:publication:people"/>
+    <file name="close.svg" crc="405141803" ref="index:publication:people"/>
+    <file name="close_poster_u28021.png" crc="4276117967" ref="index:publication:people"/>
     <file name="home page design -061257x233.png" crc="494063221" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -228,8 +234,8 @@
     <file name="markus-spiske-109588-unsplash-u36904-fr5.jpg" crc="195009569" ref="code"/>
     <file name="code-u36934-fr5.png" crc="419886549" ref="code"/>
   </folder>
-  <file name="index.html" crc="4025422394" seo="true" mt="1557372603366" redirect="true"/>
-  <file name="publication.html" crc="4291156635" seo="true" mt="1557373950956" redirect="true"/>
-  <file name="people.html" crc="43299522" seo="true" mt="1557373916332" redirect="true"/>
-  <file name="code.html" crc="4088467873" seo="true" mt="1557373929028" redirect="true"/>
+  <file name="index.html" crc="4290735635" seo="true" mt="1557509308984" redirect="true"/>
+  <file name="publication.html" crc="327328313" seo="true" mt="1557373950956" redirect="true"/>
+  <file name="people.html" crc="36832934" seo="true" mt="1559407630526" redirect="true"/>
+  <file name="code.html" crc="527477793" seo="true" mt="1557373929028" redirect="true"/>
 </manifest>
